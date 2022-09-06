@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.24533126.css",
+    "main.js": "./static/js/main.220e8276.js",
+    "static/js/787.2188514e.chunk.js": "./static/js/787.2188514e.chunk.js",
+    "static/media/watchApple.png": "./static/media/watchApple.a73066cb588beb409162.png",
+    "static/media/work.jpeg": "./static/media/work.313d9f0ab66c2be6bb36.jpeg",
+    "static/media/workingWith.jpg": "./static/media/workingWith.cf8f7165d5d7a142a345.jpg",
+    "static/media/work2.jpg": "./static/media/work2.1aa252cc14f38c352f22.jpg",
+    "static/media/BannerPrincipal.webp": "./static/media/BannerPrincipal.2d8e2a8fe3a22eaaf5d8.webp",
+    "static/media/parallaxImage.jpg": "./static/media/parallaxImage.d65d7eec20e33f1507b6.jpg",
+    "index.html": "./index.html",
+    "main.24533126.css.map": "./static/css/main.24533126.css.map",
+    "main.220e8276.js.map": "./static/js/main.220e8276.js.map",
+    "787.2188514e.chunk.js.map": "./static/js/787.2188514e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24533126.css",
+    "static/js/main.220e8276.js"
+  ]
+}
